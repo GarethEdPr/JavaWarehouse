@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        
+        //Main method to test clases for Mooc Online Shop exercise 
 
 Warehouse warehouse = new Warehouse();
 warehouse.addProduct("milk", 3, 10);
